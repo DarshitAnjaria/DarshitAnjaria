@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshit Anjaria</h1>
-<h3 align="center">Building the invisible backbone of the web, one API at a time.</h3>
+<h3 align="center">Building the invisible backbone of the web.</h3>
 
 - 🔭 I’m currently working on **Crafting seamless backend solutions that power user experiences.**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://darshitanjaria.hashnode.dev/](https://darshitanjaria.hashnode.dev/)
 
-- 💬 Ask me about **Android development, Flutter, Node.js insights, logical problem-solving, and database architecture!**
+- 💬 Ask me about **Android, Flutter, Node.js insights, logical problem-solving, and database architecture!**
 
 - 📫 How to reach me **darshitanjaria@gmail.com**
 
